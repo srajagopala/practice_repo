@@ -1,4 +1,6 @@
 # practice_repo
 Adding changes
 
-NOw editing
+Now editing
+
+Making some more changes
